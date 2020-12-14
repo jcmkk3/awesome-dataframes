@@ -1,6 +1,6 @@
 # Awesome Dataframes
 
-An awesome list of dataframe (and dataframe adjacent) libraries. This list focuses on libraries and tools intended for local (on your personal computer) manipulation of tabular data.
+An awesome list of dataframe (and dataframe-like) libraries. This list focuses on libraries and tools intended for local (on your personal computer) manipulation of tabular data.
 
 ## Libraries
 
