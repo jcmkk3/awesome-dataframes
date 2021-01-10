@@ -54,6 +54,9 @@ Java
 Kotlin
 - [krangl](https://github.com/holgerbrandl/krangl) - A {K}otlin library for data w{rangl}ing.
 
+Lua
+- [Assistant](https://github.com/coalio/Assistant) - A data science library providing flexible dataframes for Lua 5.1+
+
 Ruby
 - [rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby.
 - [daru](https://github.com/SciRuby/daru) - daru (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualization of data in Ruby.
