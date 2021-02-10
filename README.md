@@ -28,6 +28,7 @@ JavaScript
 - [Arquero](https://github.com/uwdata/arquero) - A JavaScript library for query processing and transformation of array-backed data tables. Following the relational algebra and inspired by the design of dplyr, Arquero provides a fluent API for manipulating column-oriented data frames.
 - [dataflow-api](https://github.com/vega/dataflow-api) - JavaScript API for dataflow processing using the vega-dataflow reactive engine. Perform common database operations (sorting, filtering, aggregation, window calculations) over JavaScript objects.
 - [datalib](https://github.com/vega/datalib) - A JavaScript data utility library. It provides facilities for data loading, type inference, common statistics, and string templates.
+- [Tidy.js](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse.
 - [Data-Forge](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [zebras](https://github.com/nickslevine/zebras) - A data manipulation and analysis library written in JavaScript offering the convenience of pandas or R.
 - [dataframe-js](https://github.com/Gmousse/dataframe-js) - A javascript library providing a new data structure for datascientists and developers.
