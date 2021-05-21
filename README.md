@@ -6,6 +6,7 @@ An awesome list of dataframe (and dataframe-like) libraries. This list focuses o
 
 Python
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
+- [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python.
 - [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 - [Lemuras](https://github.com/AivanF/Lemuras) - A small *pure* Python library to deal with big tables.
 - [Ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support.
