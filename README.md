@@ -51,6 +51,9 @@ C++
 Elm
 - [tidy](https://github.com/gicentre/tidy) - Leaning heavily on the principles of the tidyverse, and especially tidy data, this package makes it easy to reshape and tidy tabular data for easier data analysis and visualization.
 
+Go
+- [column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go.
+
 Java
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library.
 
