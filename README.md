@@ -48,6 +48,9 @@ Clojure
 C++
 - [DataFrame](https://github.com/hosseinmoein/DataFrame) - A C++ statistical library that provides an interface similar to Pandas package in Python.
 
+Elixir
+- [explorer](https://github.com/elixir-nx/explorer) - Explorer brings series (one-dimensional) and dataframes (two-dimensional) for fast data exploration to Elixir.
+
 Elm
 - [tidy](https://github.com/gicentre/tidy) - Leaning heavily on the principles of the tidyverse, and especially tidy data, this package makes it easy to reshape and tidy tabular data for easier data analysis and visualization.
 
