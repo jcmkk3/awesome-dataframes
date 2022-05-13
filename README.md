@@ -20,6 +20,7 @@ Python
 - [dexplo](https://github.com/dexplo/dexplo) - Data exploration library with a pandas-like API.
 - [pands_cub](https://github.com/tdpetrou/pandas_cub) - A detailed project that teaches you how to build your own Python data analysis library, pandas_cub, from scratch.
 - [fletcher](https://github.com/xhochy/fletcher) - Pandas ExtensionDType/Array backed by Apache Arrow.
+- [tidypandas](https://github.com/talegari/tidypandas) - A grammar of data manipulation for pandas inspired by tidyverse.
 
 R
 - [dplyr](https://github.com/tidyverse/dplyr) - A grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges.
