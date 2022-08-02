@@ -57,6 +57,7 @@ Elm
 
 Go
 - [column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go.
+- [gambas](https://github.com/jpoly1219/gambas) - Data analysis tool for Go. Similar to the famous Python library pandas.
 
 Java
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library.
