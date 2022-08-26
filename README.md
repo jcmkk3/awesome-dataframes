@@ -86,7 +86,10 @@ GUI
 - [Power Query](https://docs.microsoft.com/en-us/powerquery-m) - A core capability of Power Query is to filter and combine, that is, to mash-up data from one or more of a rich collection of supported data sources.
 
 ## Other
+- [prql](https://github.com/prql/prql) - A modern language for transforming data — a simple, powerful, pipelined SQL replacement.
+- [Malloy](https://github.com/looker-open-source/malloy) - An experimental language for describing data relationships and transformations.
 - [Arrow](https://github.com/apache/arrow) - A cross-language development platform for in-memory data.
+- [Substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [Consortium for Python Data APIs](https://data-apis.org/)
 
 ## Papers
