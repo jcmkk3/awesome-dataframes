@@ -37,6 +37,7 @@ JavaScript
 - [Data-Forge](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [zebras](https://github.com/nickslevine/zebras) - A data manipulation and analysis library written in JavaScript offering the convenience of pandas or R.
 - [dataframe-js](https://github.com/Gmousse/dataframe-js) - A javascript library providing a new data structure for datascientists and developers.
+- [Simple Data Analysis (SDA)](https://github.com/nshiab/simple-data-analysis.js) - Easy-to-use JavaScript library for most common data analysis tasks.
 
 Julia
 - [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - Tools for working with tabular data in Julia.
@@ -69,6 +70,9 @@ Kotlin
 
 Lua
 - [Assistant](https://github.com/coalio/Assistant) - A data science library providing flexible dataframes for Lua 5.1+
+
+Q
+- [qSQL](https://code.kx.com/q/basics/qsql/) - Query language embedded into Q.
 
 Ruby
 - [rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby.
