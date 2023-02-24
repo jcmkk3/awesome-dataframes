@@ -49,6 +49,9 @@ Clojure
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - A Clojure high performance data processing system.
 - [tablecloth](https://github.com/scicloj/tablecloth) - Dataset manipulation library build on the top of tech.ml.dataset.
 
+Common Lisp
+- [Data Frame](https://github.com/Lisp-Stat/data-frame) - Data frames for Common Lisp
+
 C++
 - [DataFrame](https://github.com/hosseinmoein/DataFrame) - A C++ statistical library that provides an interface similar to Pandas package in Python.
 
