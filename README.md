@@ -11,7 +11,7 @@ Python
 - [Ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support.
 - [agate](https://github.com/wireservice/agate) - agate is a Python data analysis library that is optimized for humans instead of machines. It is an alternative to numpy and pandas that solves real-world problems with readable code.
 - [Lemuras](https://github.com/AivanF/Lemuras) - A small *pure* Python library to deal with big tables.
-- [datatable](https://github.com/h2oai/datatablehttps://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures.
+- [datatable](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures.
 - [Prosto](https://github.com/prostodata/prosto) - A Python data processing toolkit to programmatically author and execute complex data processing workflows. Conceptually, it is an alternative to purely set-oriented approaches to data processing like map-reduce, relational algebra, SQL or data-frame-based tools like pandas.
 - [siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL.
 - [Vaex](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.
