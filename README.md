@@ -44,6 +44,7 @@ Julia
 - [DataKnots.jl](https://github.com/rbt-lang/DataKnots.jl) - A Julia library for querying data with an extensible, practical and coherent algebra of query combinators.
 - [Volcanito.jl](https://github.com/johnmyleswhite/Volcanito.jl) - Backend agnostic for tabular data operations in Julia.
 - [Query.jl](https://github.com/queryverse/Query.jl) - A package for querying julia data sources. It can filter, project, join and group data from any iterable data source, including all the sources supported in IterableTables.jl.
+- [TidierData.jl](https://github.com/TidierOrg/TidierData.jl) - 100% Julia implementation of the dplyr and tidyr R packages.
 
 Clojure
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - A Clojure high performance data processing system.
