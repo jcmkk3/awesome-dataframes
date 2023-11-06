@@ -70,6 +70,7 @@ Java
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library.
 
 Kotlin
+- [Kotlin Dataframe](https://github.com/Kotlin/dataframe) - Structured data processing in Kotlin.
 - [krangl](https://github.com/holgerbrandl/krangl) - A {K}otlin library for data w{rangl}ing.
 
 Lua
