@@ -86,6 +86,9 @@ Ruby
 Rust
 - [polars](https://github.com/ritchie46/polars) - A blazingly fast DataFrames library implemented in Rust.
 
+Wolfram
+- [Dataset](https://reference.wolfram.com/language/ref/Dataset.html) - Represents a structured dataset based on a hierarchy of lists and associations.
+
 Database
 - [SQLite](https://sqlite.org/index.html) - A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
 - [DuckDB](https://github.com/cwida/duckdb) - An embeddable SQL OLAP Database Management System.
