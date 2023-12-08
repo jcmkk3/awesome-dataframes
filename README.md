@@ -85,6 +85,7 @@ Ruby
 
 Rust
 - [polars](https://github.com/ritchie46/polars) - A blazingly fast DataFrames library implemented in Rust.
+- [datafusion](https://arrow.apache.org/datafusion/user-guide/dataframe.html) - DataFrame API in Apache Arrow DataFusion
 
 Wolfram
 - [Dataset](https://reference.wolfram.com/language/ref/Dataset.html) - Represents a structured dataset based on a hierarchy of lists and associations.
