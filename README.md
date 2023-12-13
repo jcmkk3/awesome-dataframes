@@ -79,6 +79,9 @@ Lua
 Q
 - [qSQL](https://code.kx.com/q/basics/qsql/) - Query language embedded into Q.
 
+Raku
+- [Data::Reshapers](https://github.com/antononcube/Raku-Data-Reshapers) - Raku package with data reshaping functions for different data structures.
+
 Ruby
 - [rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby.
 - [daru](https://github.com/SciRuby/daru) - daru (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualization of data in Ruby.
