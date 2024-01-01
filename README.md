@@ -85,6 +85,7 @@ Raku
 Ruby
 - [rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby.
 - [daru](https://github.com/SciRuby/daru) - daru (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualization of data in Ruby.
+- [polars-ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby.
 
 Rust
 - [polars](https://github.com/ritchie46/polars) - A blazingly fast DataFrames library implemented in Rust.
