@@ -76,6 +76,9 @@ Kotlin
 Lua
 - [Assistant](https://github.com/coalio/Assistant) - A data science library providing flexible dataframes for Lua 5.1+
 
+PHP
+- [WoollyM](https://github.com/MammothPHP/WoollyM) - Dataframes library providing an interface for easy data access, manipulation, and calculation. Data are stored in memory (native driver) or external storage (sql drivers or others), enabling the library to be used seamlessly as a connector. Exports and imports with popular formats (CSV, Spreadsheet, Json...) are also supported. 
+
 Q
 - [qSQL](https://code.kx.com/q/basics/qsql/) - Query language embedded into Q.
 
