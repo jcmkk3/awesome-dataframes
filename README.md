@@ -9,6 +9,7 @@ Python
 - [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python.
 - [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 - [Ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support.
+- [Narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
 - [agate](https://github.com/wireservice/agate) - agate is a Python data analysis library that is optimized for humans instead of machines. It is an alternative to numpy and pandas that solves real-world problems with readable code.
 - [Lemuras](https://github.com/AivanF/Lemuras) - A small *pure* Python library to deal with big tables.
 - [datatable](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures.
