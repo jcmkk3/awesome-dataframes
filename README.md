@@ -24,11 +24,16 @@ Python
 - [tidypandas](https://github.com/talegari/tidypandas) - A grammar of data manipulation for pandas inspired by tidyverse.
 - [redframes](https://github.com/maxhumber/redframes) - [re]ctangular[d]ata[frames]
 - [static-frame](https://github.com/InvestmentSystems/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface
+- [Spark](https://spark.apache.org/) - single-machine or cluster data tool, including DataFrames
+- [Dask](https://www.dask.org/) - Python library to scale Pandas code
+- [cuDF](https://docs.rapids.ai/api/cudf/stable/) - a GPU DataFrame library for Python
+
 
 R
 - [dplyr](https://github.com/tidyverse/dplyr) - A grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges.
 - [data.table](https://github.com/Rdatatable/data.table) - Provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed.
 - [dance](https://github.com/romainfrancois/dance) - Dancing 💃 with the stats, aka `tibble()` dancing 🕺. dance is a sort of reinvention of dplyr classic verbs, with a more modern stack underneath, i.e. it leverages a lot from vctrs and rlang.
+- [Spark](https://spark.apache.org/) - single-machine or cluster data tool, including DataFrames
 
 JavaScript
 - [Arquero](https://github.com/uwdata/arquero) - A JavaScript library for query processing and transformation of array-backed data tables. Following the relational algebra and inspired by the design of dplyr, Arquero provides a fluent API for manipulating column-oriented data frames.
@@ -69,6 +74,7 @@ Go
 
 Java
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library.
+- [Spark](https://spark.apache.org/) - single-machine or cluster data tool, including DataFrames
 
 Kotlin
 - [Kotlin Dataframe](https://github.com/Kotlin/dataframe) - Structured data processing in Kotlin.
