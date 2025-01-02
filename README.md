@@ -77,6 +77,9 @@ Kotlin
 - [Kotlin Dataframe](https://github.com/Kotlin/dataframe) - Structured data processing in Kotlin.
 - [krangl](https://github.com/holgerbrandl/krangl) - A {K}otlin library for data w{rangl}ing.
 
+Lil
+- [Query Language](https://beyondloom.com/decker/lil.html#lilthequerylanguage) - Query language embedded into Lil.
+
 Lua
 - [Assistant](https://github.com/coalio/Assistant) - A data science library providing flexible dataframes for Lua 5.1+
 
