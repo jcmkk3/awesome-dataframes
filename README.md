@@ -90,6 +90,7 @@ Raku
 - [Data::Reshapers](https://github.com/antononcube/Raku-Data-Reshapers) - Raku package with data reshaping functions for different data structures.
 
 Ruby
+- [RedAmber](https://github.com/red-data-tools/red_amber) - A dataframe library for Rubyists.
 - [rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby.
 - [daru](https://github.com/SciRuby/daru) - daru (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualization of data in Ruby.
 - [polars-ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby.
