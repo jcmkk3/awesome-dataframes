@@ -57,6 +57,9 @@ Common Lisp
 C++
 - [DataFrame](https://github.com/hosseinmoein/DataFrame) - A C++ statistical library that provides an interface similar to Pandas package in Python.
 
+C# (.NET)
+- [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis/) — Data analysis and transformation, a part of ML.NET project.
+
 Elixir
 - [explorer](https://github.com/elixir-nx/explorer) - Explorer brings series (one-dimensional) and dataframes (two-dimensional) for fast data exploration to Elixir.
 
