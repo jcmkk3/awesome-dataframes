@@ -111,6 +111,7 @@ CLI
 
 GUI
 - [Power Query](https://docs.microsoft.com/en-us/powerquery-m) - A core capability of Power Query is to filter and combine, that is, to mash-up data from one or more of a rich collection of supported data sources.
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 
 ## Other
 - [prql](https://github.com/prql/prql) - A modern language for transforming data — a simple, powerful, pipelined SQL replacement.
