@@ -86,6 +86,9 @@ Lua
 Q
 - [qSQL](https://code.kx.com/q/basics/qsql/) - Query language embedded into Q.
 
+Racket
+- [uke](https://github.com/samdphillips/uke/) - Dataframe for Racket
+
 Raku
 - [Data::Reshapers](https://github.com/antononcube/Raku-Data-Reshapers) - Raku package with data reshaping functions for different data structures.
 
